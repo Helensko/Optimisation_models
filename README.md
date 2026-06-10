@@ -94,7 +94,6 @@ WtW lifecycle emission factors are defined in `WTW_EMISSION_FACTORS_KG_PER_MWH` 
 | Item | Reason |
 |---|---|
 | `vessels_3.xlsx`, `vessels_2.xlsx`, `vessels_3_WAPS.xlsx`, `vessels_3_offshore_charging.xlsx` | Vessel particulars (DWT, installed power, lane metres, speed, etc.) were sourced from Sea-web. Redistribution is not permitted under the licence terms. |
-|---|---|
 | `routes.xlsx`, `routes_offshore_charging.xlsx` | Included in the repository. Route distances are based on publicly available port information. |
 | `results/` | Generated output files are not committed; re-run the scripts to reproduce them. |
 
