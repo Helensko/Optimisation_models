@@ -4,9 +4,6 @@ This repository contains the code developed for a master's thesis comparing batt
 
 The model selects the least-cost carrier for each route in a multi-route fleet and produces cost breakdowns, energy chain (WtW) analysis, WtW lifecycle emission estimates, and sensitivity analyses.
 
-Reference: Harbo, K.B. and Skovdahl, H. (2026). "Electric vs. Green Fuels in Shortsea Transport: System Design and Benchmarking." 
-Master's thesis, Norwegian University of Science and Technology (NTNU).
-
 ---
 
 ## Repository structure
